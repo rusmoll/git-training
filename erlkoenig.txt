@@ -14,3 +14,9 @@ Strophe 3
 Gar schöne Spiele spiel’ ich mit dir
 Manch’ bunte Blumen sind an dem Strand
 Meine Mutter hat manch gülden Gewand.
+
+Strophe 4
+Mein Vater, mein Vater, und hörest du nicht
+Was Erlenkönig mir leise verspricht?
+Sei ruhig, bleibe ruhig, mein Kind
+In dürren Blättern säuselt der Wind.
